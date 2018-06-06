@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub Commit Watcher</string>
+    <string name="close">CLOSE</string>
+</resources>
